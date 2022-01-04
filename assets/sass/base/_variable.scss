@@ -1,0 +1,16 @@
+:root{
+    --light-gray: rgb(250, 250, 252);
+    --light-green: #F6FFF8;
+    --dark-green: #1AA147;
+    --white: #fff;
+    --black: #000;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: var(--light-green);
+    font-family: 'Poppins', sans-serif;
+}
